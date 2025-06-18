@@ -62,17 +62,4 @@ GNU GPLv3 (Open for academic/commercial use with attribution)
 
 **🏆 Supported by FIDE** – Recognized as an official digital development partner  
 
----
 
-### **Why This Stands Out**  
-1. **Clear Value Proposition** - Immediately explains "why this matters"  
-2. **Visual Structure** - Tables/Gantt chart improve scanability  
-3. **Contribution CTA** - Specific roles for potential contributors  
-4. **Credibility Markers** - FIDE partnership mention adds trust  
-
-Would you like me to:  
-A) Add a "Architecture Decision Records" section?  
-B) Include more screenshots/figma links?  
-C) Adjust the tone (more technical/community-focused)?  
-
-Perfect for GitHub/GitLab README.md with built-in formatting!
