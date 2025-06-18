@@ -1,4 +1,4 @@
-# **♟️ Scorpion Chess Academy Platform**  
+# **♟️ Scorpion Chess Kingdom Platform**  
 *A Next-Generation Chess Ecosystem for Players, Coaches, and Organizers*
 
 ## **🚀 Overview**  
