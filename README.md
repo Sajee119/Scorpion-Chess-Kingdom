@@ -1,7 +1,3 @@
-Here’s a polished GitHub-ready project description for the **Scorpion Chess Academy Platform**:
-
----
-
 # **♟️ Scorpion Chess Academy Platform**  
 *A Next-Generation Chess Ecosystem for Players, Coaches, and Organizers*
 
