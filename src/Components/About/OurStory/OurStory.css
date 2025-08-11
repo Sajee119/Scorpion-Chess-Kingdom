@@ -1,0 +1,30 @@
+/* components/About/OurStory/OurStory.css */
+.our-story {
+  padding: 5rem 0;
+  background: white;
+}
+
+.story-content {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.story-content h2 {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  color: #333;
+}
+
+.story-content p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #666;
+  margin-bottom: 1.5rem;
+}
+
+@media (max-width: 480px) {
+  .story-content h2 {
+    font-size: 2rem;
+  }
+}
