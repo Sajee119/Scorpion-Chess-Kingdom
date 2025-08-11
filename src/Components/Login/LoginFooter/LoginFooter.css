@@ -1,0 +1,25 @@
+/* components/login/LoginFooter/LoginFooter.css */
+.login-footer {
+  text-align: center;
+  margin-top: 30px;
+  padding-top: 20px;
+  border-top: 1px solid #e2e8f0;
+}
+
+.login-footer p {
+  color: #666;
+  font-size: 0.9rem;
+  margin: 0;
+}
+
+.signup-link {
+  color: #667eea;
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+.signup-link:hover {
+  color: #5a67d8;
+  text-decoration: underline;
+}
