@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Outfit", sans-serif;
+}
+:root {
+    --primary: #2c3e50;
+    --secondary: #3498db;
+    --accent: #e74c3c;
+    --light: #ecf0f1;
+    --dark: #2c3e50;
+    --success: #27ae60;
+    --text: #34495e;
+    --text-light: #7f8c8d;
+    --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    --transition: all 0.3s ease;
+}
+
+body {
+    background: linear-gradient(135deg, #f5f7fa 0%, #e4e8eb 100%);
+    color: var(--text);
+    line-height: 1.6;
+}
+
+header {
+    background-color: white;
+    box-shadow: var(--shadow);
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    margin-bottom: 100px;
+}
+
+.layout {
+    margin-top: 90px;
+}
+
+@media (max-width: 992px) {
+    .nav-links {
+        display: none;
+    }
+            
+    .mobile-menu-btn {
+        display: block;
+    }
+            
+    .auth-buttons {
+        display: none;
+    }
+            
+    .hero-title {
+        font-size: 2.5rem;
+    }
+            
+    .hero-subtitle {
+        font-size: 1.1rem;
+    }
+            
+    .hero-buttons {
+        flex-direction: column;
+        align-items: center;
+    }
+            
+    .hero-buttons .btn {
+        width: 100%;
+        max-width: 300px;
+        margin-bottom: 1rem;
+    }
+}
+
+.container {
+    padding-left: 10%;
+    padding-right: 10%;
+    max-width: 100%;
+    margin: auto;
+}
